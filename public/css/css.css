@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(254, 255, 224);
+    min-height: 100%;
+    margin: auto;
+}
+
+#emailHelp {
+    border-color: red;
+}
+
+h1,
+h2 {
+    color: green;
+    margin: auto;
+    width: 400px;
+}
+
+form {
+    margin: auto;
+    border: 3px solid grey;
+    width: 400px;
+    border-radius: 10px;
+}
+
+div {
+    margin: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.d-flex input {
+    margin: 3px 1px
+}
+
+button {
+
+    padding: .3px 2.4px;
+    margin: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.container table {
+    margin: 1em 10em
+}
+
+.btnedit {
+    color: lightgreen;
+    cursor: pointer;
+}
+
+.btndelete {
+    color: tomato;
+    cursor: pointer;
+}
